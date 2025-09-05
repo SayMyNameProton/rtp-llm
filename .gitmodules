@@ -1,0 +1,6 @@
+[submodule "internal-source"]
+	path = internal-source
+	url = https://code.alibaba-inc.com/luoxi-dev/rtp-llm-internal
+[submodule ".aoneci"]
+	path = .aoneci
+	url = https://code.alibaba-inc.com/luoxi-dev/rtp-llm-ci
